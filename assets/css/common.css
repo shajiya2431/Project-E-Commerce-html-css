@@ -4,8 +4,9 @@
     --gray:#f2f0f1;
     --text-gray:#666;
 
-    --font-primary:'Satoshi', sans-serif;
-    --font-heading:'Integral CF', sans-serif;
+    --font-primary: "Plus Jakarta Sans", sans-serif;
+    --font-secondry: "Anton", sans-serif;
+
 
     --container:1240px;
 
@@ -29,6 +30,7 @@ html{
 
 body{
     font-family:var(--font-primary);
+
 }
 
 h1,h2,h3,h4,h5,h6{
