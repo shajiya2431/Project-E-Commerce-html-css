@@ -453,7 +453,7 @@
 
 .customers {
     padding: 80px 0;
-    overflow: visible;
+    overflow-X: hidden;
 }
 
 .customers .container {
